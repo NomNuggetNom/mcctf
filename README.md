@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/NomNuggetNom/mcctf/assets/1479568/cdd5190e-2f1d-4b79-a27e-97f182e49e55" />
+  <img src="https://github.com/NomNuggetNom/mcctf/assets/1479568/fd9956a9-dfe4-4743-8518-1ab4da97a997" />
 </p>
+
 <p align="center"><b>MCCTF - The classic MPVP gamemode reborn</b></p>
 
 # Getting Started

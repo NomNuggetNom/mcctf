@@ -18,7 +18,7 @@ The JAR file can be found on the [releases page]([url](https://github.com/NomNug
 
 ## Downloads
 
-1. Download the [CTF map archive](https://discord.com/channels/@me/123296961511030784/1153080239711330314). This is a large file and might take some time, so get it started now.
+1. Download the [CTF map archive](https://archive.org/details/mcpvp-ctf-map-collection). This is a large file and might take some time, so get it started now.
 2. PaperMC 1.8.8 (build 445) is recommended. Head to their [build explorer](https://papermc.io/downloads/all) and click 1.8.8 on the left. This [direct link](https://api.papermc.io/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar) might work too.
 3. Download a compatible Java version. I use [Temurin 17](https://adoptium.net/temurin/releases/). You need to be able to run `java` from your command prompt to start the server - you can follow the [installation instructions here](https://adoptium.net/installation/).
     - For advanced users, consider using [sdkman](https://sdkman.io/install) to install `17.0.3-tem`.
